@@ -1,0 +1,29 @@
+[ {
+  "buildOrder" : 12,
+  "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 226
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 255
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 329
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 252
+  }
+} ]

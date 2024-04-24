@@ -18,7 +18,7 @@
         <allure.version>2.17.2</allure.version>
         <java.version>1.8</java.version>
         <aspectj.version>1.9.5</aspectj.version>
-        <testng.vesion>7.1.0</testng.vesion>
+        <testng.vesion>7.5.1</testng.vesion>
         <hamcrest.version>1.3</hamcrest.version>
         <slf4j.version>1.7.30</slf4j.version>
         <maven.surefire.version>2.22.2</maven.surefire.version>
